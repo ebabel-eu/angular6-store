@@ -1,3 +1,6 @@
-# angular-6klxdq
+# angular6 store
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-6klxdq)
+## Install
+```
+yarn install
+```
